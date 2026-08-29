@@ -1,0 +1,28 @@
+{
+  "1788012917418458": [
+    {
+      "nodeId": "d88524d7-fdf3-4915-92c8-3484b78d6403",
+      "status": "started",
+      "timestamp": 1788012917851
+    },
+    {
+      "nodeId": "d88524d7-fdf3-4915-92c8-3484b78d6403",
+      "status": "completed",
+      "result": "NO",
+      "timestamp": 1788012920646
+    }
+  ],
+  "1788013051033734": [
+    {
+      "nodeId": "d88524d7-fdf3-4915-92c8-3484b78d6403",
+      "status": "started",
+      "timestamp": 1788013051423
+    },
+    {
+      "nodeId": "d88524d7-fdf3-4915-92c8-3484b78d6403",
+      "status": "completed",
+      "result": "NO",
+      "timestamp": 1788013051822
+    }
+  ]
+}
